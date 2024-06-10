@@ -1,3 +1,11 @@
 vocabulary/ORBvoc.txt
+KeyFrameTrajectory.txt
 config/isaac
 launch
+build/
+install/
+log/
+Atlas_mono/
+Atlas_rgbd/
+calibrationdata/
+*.yaml
